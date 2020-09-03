@@ -39,12 +39,11 @@ Create the backend for a social network app.
   * Authenticated users only
   * Only one profile per user
   * Field validation via Mongoose
-  - Upload a profile image
+- Upload a profile image
   * Owner only
   * Photo will be uploaded to local filesystem
-  - Delete a profile image
+- Delete a profile image
   * Owner only
-  * Photo will be uploaded to local filesystem
 - Update profile
   * Owner only
   * Validation on update
